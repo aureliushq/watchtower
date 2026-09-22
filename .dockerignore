@@ -81,8 +81,8 @@ temp/
 railway.toml
 railway-env-setup.md
 
-# Task master files
-.taskmaster/
+# Agent files
+AGENTS.md
 CLAUDE.md
 
 # Docker files (exclude development docker files)

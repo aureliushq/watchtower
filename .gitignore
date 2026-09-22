@@ -35,9 +35,6 @@ logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-dev-debug.log
-# Dependency directories
-# Environment variables
 # Editor directories and files
 .idea
 .vscode
@@ -49,7 +46,3 @@ dev-debug.log
 # OS specific
 .DS_Store
 tmp/
-
-# Task files
-# tasks.json
-# tasks/
